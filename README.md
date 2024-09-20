@@ -1,6 +1,4 @@
-# About_us
-
-# Sobre:
+# Sobre nós:
   
 <h3>
   Projeto realizado para a nota da segunda etapa do semestre 2024.1(N2) na matéria de Programação Orientada a Objetos(POO).
