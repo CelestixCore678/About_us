@@ -49,17 +49,17 @@ De preferência utilizando a IDE netbeans,após baixar por este github todo o pr
 <table>
   <tbody>
     <tr>
-      <td align="center"><a href="https://github.com/clararibeiro09"><img src="https://avatars.githubusercontent.com/u/101335613?v=4" width="100px;" alt="cr"/><br /><sub><b>Clara Ribeiro</b>
+      <td align="center"><a href="https://github.com/clararibeiro09"><img src="https://avatars.githubusercontent.com/u/159394411?v=4" width="100px;" alt="cr"/><br /><sub><b>Clara Ribeiro</b>
         </a>
-        <p><sub>Game Designer</sub></p></sub></td>
-      <td align="center"><a href="https://github.com/saravs858"><img src="https://avatars.githubusercontent.com/u/106782812?v=4" width="100px;" alt="sv"/><br /><sub><b>Sara Vieira</b></a>
-        <p><sub>Game Artist</sub></p></sub></td>
-      <td align="center"><a href="https://github.com/joaopedrohub"><img src="https://avatars.githubusercontent.com/u/82671771?v=4" width="100px;" alt="jp"/><br /><sub><b>João Pedro de Andrade</b></a>
-        <p><sub>Game Developer</sub></p></sub></td>
-      <td align="center"><a href="https://github.com/anapaulasena8"><img src="https://avatars.githubusercontent.com/u/112056208?v=4" width="100px;" alt="Ana"/><br /><sub><b>Ana Paula Sena</b></sub></a>
-        <p><sub>Game Developer</sub></p></td>
-        <td align="center"><a href="https://github.com/rich4rds0n"><img src="https://avatars.githubusercontent.com/u/112056208?v=4" width="100px;" alt="Richardson Ferreira"/><br /><sub><b>Richardson Ferreira</b></sub></a>
-        <p><sub>Game Developer</sub></p></td>
+        <p><sub>Designer</sub></p></sub></td>
+      <td align="center"><a href="https://github.com/saravs858"><img src="https://avatars.githubusercontent.com/u/159447242?v=4" width="100px;" alt="sv"/><br /><sub><b>Sara Vieira</b></a>
+        <p><sub>Designer</sub></p></sub></td>
+      <td align="center"><a href="https://github.com/joaopedrohub"><img src="https://avatars.githubusercontent.com/u/159566325?v=4" width="100px;" alt="jp"/><br /><sub><b>João Pedro de Andrade</b></a>
+        <p><sub>Desenvolvedor Back-end</sub></p></sub></td>
+      <td align="center"><a href="https://github.com/anapaulasena8"><img src="https://avatars.githubusercontent.com/u/160032234?v=4" width="100px;" alt="Ana"/><br /><sub><b>Ana Paula Sena</b></sub></a>
+        <p><sub> Desenvolvedora Front-end</sub></p></td>
+        <td align="center"><a href="https://github.com/rich4rds0n"><img src="https://avatars.githubusercontent.com/u/107577413?v=4" width="100px;" alt="Richardson Ferreira"/><br /><sub><b>Richardson Ferreira</b></sub></a>
+        <p><sub>Designer e Desenvolvedor</sub></p></td>
     </tr>
   </tbody>
 </table>
