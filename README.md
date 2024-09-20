@@ -1,4 +1,5 @@
 # About_us
+
 # Sobre:
   
 <h3>
@@ -8,15 +9,17 @@
 <h3>
   O projeto apresenta de forma divertida um aplicativo que inclui uma calculadora de imc e um clássico jogo da velha.
   </h3>
-  
+
+# Fale conosco
+ <a target="_blank" href="mailto:celestixcore@gmail.com"> <img height="30" width="120" alt="Email-celest" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-        badge&logo=gmail&logoColor=white"/></a>
+ 
 # Caracteristicas implementadas:
 
 * [x] Login
 * [x] Calculadora de IMC
 * [x] Jogo da Velha
 
-# 🛠Ferramentas Utilizadas:
-  
+# 🛠Ferramentas Utilizada 
   * ## Netbeans
      ![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
 
@@ -40,14 +43,24 @@ De preferência utilizando a IDE netbeans,após baixar por este github todo o pr
 
 **OpenJDK 17 (ou superior)**
 
-# 💼Equipe:
-- [Maria Clara Ribeiro](https://github.com/ClaraRibeiro09):
-  Skill design da tela de login, tela de transicao e responsavel pela organixacao da empresa
-- [Sara Vieira Silva](https://github.com/saravs858):
-  Skill design do jogo da velha
-- [ana](https://github.com/AnaPaulaSena8):
-    Skill Desenvolvedor da tela de login
-- [Joao Pedro de Andrade Holanda](https://github.com/joaopedrohub):
-   Skill Desenvolvedor do jogo da velha
-  - [Richardson Ferreira](https://github.com/rich4dson):
-   Skill Desenvolvedor e design da calculadora
+<h2 align="center">➤ 💼Equipe:</h2></b>
+
+<div align="center">
+<table>
+  <tbody>
+    <tr>
+      <td align="center"><a href="https://github.com/clararibeiro09"><img src="https://avatars.githubusercontent.com/u/101335613?v=4" width="100px;" alt="cr"/><br /><sub><b>Clara Ribeiro</b>
+        </a>
+        <p><sub>Game Designer</sub></p></sub></td>
+      <td align="center"><a href="https://github.com/saravs858"><img src="https://avatars.githubusercontent.com/u/106782812?v=4" width="100px;" alt="sv"/><br /><sub><b>Sara Vieira</b></a>
+        <p><sub>Game Artist</sub></p></sub></td>
+      <td align="center"><a href="https://github.com/joaopedrohub"><img src="https://avatars.githubusercontent.com/u/82671771?v=4" width="100px;" alt="jp"/><br /><sub><b>João Pedro de Andrade</b></a>
+        <p><sub>Game Developer</sub></p></sub></td>
+      <td align="center"><a href="https://github.com/anapaulasena8"><img src="https://avatars.githubusercontent.com/u/112056208?v=4" width="100px;" alt="Ana"/><br /><sub><b>Ana Paula Sena</b></sub></a>
+        <p><sub>Game Developer</sub></p></td>
+        <td align="center"><a href="https://github.com/rich4rds0n"><img src="https://avatars.githubusercontent.com/u/112056208?v=4" width="100px;" alt="Richardson Ferreira"/><br /><sub><b>Richardson Ferreira</b></sub></a>
+        <p><sub>Game Developer</sub></p></td>
+    </tr>
+  </tbody>
+</table>
+</div>
