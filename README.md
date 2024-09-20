@@ -25,17 +25,17 @@
      ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
     
 
-# 🗨Linguagem:
+# Linguagem:
 
 * ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
-# ❓Como executar:
+# Como executar:
 De preferência utilizando a IDE netbeans,após baixar por este github todo o programa inserido no repositório.
 
-# ❓Requerimentos:
+# Requerimentos:
 **Java 17 (ou superior)**
 
-# 📚Bibliotecas utilizadas: 
+# Bibliotecas utilizadas: 
 - [Biblioteca Swing](https://homepages.dcc.ufmg.br/~fsantos/ECOi06/aulaSwingSWT.pdf)
 - [Biblioteca AWT](https://homepages.dcc.ufmg.br/~fsantos/ECOi06/aulaSwingSWT.pdf)
 
