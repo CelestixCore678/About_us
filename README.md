@@ -20,13 +20,14 @@
 * [x] Jogo da Velha
 
 # 🛠Ferramentas Utilizada 
-  * ## Netbeans
-     ![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
+ *   ![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
+     ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+     ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
+    
 
 # 🗨Linguagem:
 
-* ## Java (Swing)
-   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+* ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 # ❓Como executar:
 De preferência utilizando a IDE netbeans,após baixar por este github todo o programa inserido no repositório.
@@ -39,7 +40,7 @@ De preferência utilizando a IDE netbeans,após baixar por este github todo o pr
 - [Biblioteca AWT](https://homepages.dcc.ufmg.br/~fsantos/ECOi06/aulaSwingSWT.pdf)
 
 # Stack:
-**Apache Netbeans 19**
+* ![Apache Netbeans 19](https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white)
 
 **OpenJDK 17 (ou superior)**
 
