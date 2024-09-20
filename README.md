@@ -1,3 +1,6 @@
+<div align ="center">
+  <img src="https://github.com/JaoTitow/Urna2/blob/main/icons/Logo.png" width = "500px"/>
+  </div>
 # Sobre nós:
   
 <h3>
