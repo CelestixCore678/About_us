@@ -42,10 +42,12 @@ De preferência utilizando a IDE netbeans,após baixar por este github todo o pr
 
 # 💼Equipe:
 - [Maria Clara Ribeiro](https://github.com/ClaraRibeiro09):
-  Skill design
+  Skill design da tela de login, tela de transicao e responsavel pela organixacao da empresa
 - [Sara Vieira Silva](https://github.com/saravs858):
-  Skill design
+  Skill design do jogo da velha
 - [ana](https://github.com/AnaPaulaSena8):
-    Skill Desenvolvedor
+    Skill Desenvolvedor da tela de login
 - [Joao Pedro de Andrade Holanda](https://github.com/joaopedrohub):
-   Skill Desenvolvedor
+   Skill Desenvolvedor do jogo da velha
+  - [Richardson Ferreira](https://github.com/rich4dson):
+   Skill Desenvolvedor e design da calculadora
