@@ -3,7 +3,7 @@
   </div>
   
 # Sobre nós:
-<h4>Somos a Celestix Core! Desenvolvida especialmente para cuidar de você!
+<h4>Somos a Celestix Core. Desenvolvida especialmente para cuidar de você!
 </h4>
 
   
@@ -15,13 +15,13 @@
   O projeto apresenta de forma divertida um aplicativo que inclui uma calculadora de imc e um clássico jogo da velha.
   </h4>
   
-<h2>Missão</h2>
+# Missão
 <h3>Ajudar as pessoas a alcançarem seus objetivos de saúde de maneira maias fácil e rápida, com a calculadora de IMC. Além disso, levaro lazer as pessoas, por meio de um jogo clássico.</h3>
   
-<h2>Visão</h2>
+# Visão
 <h3>Ser uma referência em tecnologia que melhora a vida das pessoas, desenvolvendo ferramentas intuitivas e eficazes que promovam saúde e bem-estar.</h3>
 
-<h2>Valores</h2>
+# Valores
 <h3>1.Aprendizado Contínuo: Valorizamos o desenvolvimento pessoal e profissional, incentivando a formação contínua de nossos colaboradores.
 </h3>
 <h3>2.Integridade: Agimos de maneira ética e responsável, construindo confiança com nossos clientes e parceiros.
