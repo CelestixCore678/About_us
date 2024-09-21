@@ -22,11 +22,11 @@
 <h3>Ser uma referência em tecnologia que melhora a vida das pessoas, desenvolvendo ferramentas intuitivas e eficazes que promovam saúde e bem-estar.</h3>
 
 # Valores
-<h3>1.Aprendizado Contínuo: Valorizamos o desenvolvimento pessoal e profissional, incentivando a formação contínua de nossos colaboradores.
+<h3>1. Aprendizado Contínuo: Valorizamos o desenvolvimento pessoal e profissional, incentivando a formação contínua de nossos colaboradores.
 </h3>
-<h3>2.Integridade: Agimos de maneira ética e responsável, construindo confiança com nossos clientes e parceiros.
+<h3>2. Integridade: Agimos de maneira ética e responsável, construindo confiança com nossos clientes e parceiros.
 </h3>
-<h3>3.Sustentabilidade: Compromisso com práticas que minimizam o impacto ambiental e promovem a responsabilidade social.
+<h3>3. Sustentabilidade: Compromisso com práticas que minimizam o impacto ambiental e promovem a responsabilidade social.
 </h3>
 
 
