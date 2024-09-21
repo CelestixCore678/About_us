@@ -14,6 +14,21 @@
 <h3>
   O projeto apresenta de forma divertida um aplicativo que inclui uma calculadora de imc e um clássico jogo da velha.
   </h3>
+  
+<h2>Missão</h2>
+<h3>Ajudar as pessoas a alcançarem seus objetivos de saúde de maneira maias fácil e rápida, com a calculadora de IMC. Além disso, levaro lazer as pessoas, por meio de um jogo clássico.</h3>
+  
+<h2>Visão</h2>
+<h3>Ser uma referência em tecnologia que melhora a vida das pessoas, desenvolvendo ferramentas intuitivas e eficazes que promovam saúde e bem-estar.</h3>
+
+<h2>Valores</h2>
+<h3>1.Aprendizado Contínuo: Valorizamos o desenvolvimento pessoal e profissional, incentivando a formação contínua de nossos colaboradores.
+</h3>
+<h3>2.Integridade: Agimos de maneira ética e responsável, construindo confiança com nossos clientes e parceiros.
+</h3>
+<h3>3.Sustentabilidade: Compromisso com práticas que minimizam o impacto ambiental e promovem a responsabilidade social.
+</h3>
+
 
 # Fale conosco
  <a target="_blank" href="mailto:celestixcore@gmail.com"> <img height="30" width="120" alt="Email-celest" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-        badge&logo=gmail&logoColor=white"/></a>
