@@ -3,16 +3,16 @@
   </div>
   
 # Sobre nós:
-<h4>Somos a Celestix Core. Desenvolvida especialmente para cuidar de você!
+<h4>☆ Somos a Celestix Core. Desenvolvida especialmente para cuidar de você!
 </h4>
 
   
 <h4>
- Empresa criada para o projeto final de 5 estudantes para a disciplina de Programação Orientada a Objetos do curso técnico integrado em informática no Instituto Federal do Ceará campus Fortaleza. 
+ ☆ Empresa criada para o projeto final de 5 estudantes para a disciplina de Programação Orientada a Objetos do curso técnico integrado em informática no Instituto Federal do Ceará campus Fortaleza. 
   </h4>
   
 <h4>
-  O projeto apresenta de forma divertida um aplicativo que inclui uma calculadora de imc e um clássico jogo da velha.
+   ☆ O projeto apresenta de forma divertida um aplicativo que inclui uma calculadora de imc e um clássico jogo da velha.
   </h4>
   
 # Missão:
