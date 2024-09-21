@@ -1,7 +1,10 @@
 <div align ="center">
   <img src="https://avatars.githubusercontent.com/u/182271281?s=400&u=f2447da637d1b3642a559ca187bbe238a8574a05&v=4" width = "500px"/>
   </div>
+  
 # Sobre nós:
+<h3>Somos a Celestix Core! Desenvolvida especialmente para cuidar de você!
+</h3>
   
 <h3>
   Projeto realizado para a nota da segunda etapa do semestre 2024.1(N2) na matéria de Programação Orientada a Objetos(POO).
