@@ -5,9 +5,10 @@
 # Sobre nós:
 <h3>Somos a Celestix Core! Desenvolvida especialmente para cuidar de você!
 </h3>
+
   
 <h3>
-  Projeto realizado para a nota da segunda etapa do semestre 2024.1(N2) na matéria de Programação Orientada a Objetos(POO).
+ E essa empresa é do projeto final de 5 estudantes para a disciplina de Programação Orientada a Objetos do curso técnico integrado em informática no Instituto Federal do Ceará campus Fortaleza. 
   </h3>
   
 <h3>
