@@ -1,7 +1,7 @@
 <div align ="center">
   <img src="https://avatars.githubusercontent.com/u/182271281?s=400&u=6fae5e1a40fd49b99c7381c8075f12c7bcd34870&v=4" width = "350px"/>
   </div>
-  
+ 
 # Sobre nós:
 <h4>☆ Somos a Celestix Core. Desenvolvida especialmente para cuidar de você!
 </h4>
