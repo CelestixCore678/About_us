@@ -15,13 +15,13 @@
   O projeto apresenta de forma divertida um aplicativo que inclui uma calculadora de imc e um clássico jogo da velha.
   </h4>
   
-# Missão
+# Missão:
 <h3>Ajudar as pessoas a alcançarem seus objetivos de saúde de maneira maias fácil e rápida, com a calculadora de IMC. Além disso, levaro lazer as pessoas, por meio de um jogo clássico.</h3>
   
-# Visão
+# Visão:
 <h3>Ser uma referência em tecnologia que melhora a vida das pessoas, desenvolvendo ferramentas intuitivas e eficazes que promovam saúde e bem-estar.</h3>
 
-# Valores
+# Valores:
 <h3>1. Aprendizado Contínuo: Valorizamos o desenvolvimento pessoal e profissional, incentivando a formação contínua de nossos colaboradores.
 </h3>
 <h3>2. Integridade: Agimos de maneira ética e responsável, construindo confiança com nossos clientes e parceiros.
@@ -30,7 +30,7 @@
 </h3>
 
 
-# Fale conosco
+# Fale conosco:
  <a target="_blank" href="mailto:celestixcore@gmail.com"> <img height="30" width="120" alt="Email-celest" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-        badge&logo=gmail&logoColor=white"/></a>
  
 # Caracteristicas implementadas:
@@ -39,12 +39,12 @@
 * [x] Calculadora de IMC
 * [x] Jogo da Velha
 
-# 🛠Ferramentas Utilizada 
+# 🛠Ferramentas Utilizadas durante o projeto: 
  *   ![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
      ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
      ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
-    
-
+     ![Trello](http://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+     
 # Linguagem:
 
 * ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
