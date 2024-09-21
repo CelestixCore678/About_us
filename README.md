@@ -1,5 +1,5 @@
 <div align ="center">
-  <img src="https://github.com/account" width = "500px"/>
+  <img src="https://avatars.githubusercontent.com/u/182271281?s=400&u=f2447da637d1b3642a559ca187bbe238a8574a05&v=4" width = "500px"/>
   </div>
 # Sobre nós:
   
