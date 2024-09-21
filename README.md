@@ -8,7 +8,7 @@
 
   
 <h3>
- E essa empresa é do projeto final de 5 estudantes para a disciplina de Programação Orientada a Objetos do curso técnico integrado em informática no Instituto Federal do Ceará campus Fortaleza. 
+ Empresa criada para o projeto final de 5 estudantes para a disciplina de Programação Orientada a Objetos do curso técnico integrado em informática no Instituto Federal do Ceará campus Fortaleza. 
   </h3>
   
 <h3>
